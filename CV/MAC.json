@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Lucas",
+      "surnames": "Sanz Allona",
+      "title": "",
+      "description": "",
+      "location": {
+        "notes": ""
+      }
+    }
+  }
+}
