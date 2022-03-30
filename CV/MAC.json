@@ -8,11 +8,164 @@
     "profile": {
       "name": "Lucas",
       "surnames": "Sanz Allona",
-      "title": "",
-      "description": "",
+      "title": "Cloud and DevOps Engineer @ Sngular",
+      "description": "Good at problem-solving and decision-taking. I started programming in object-oriented languages at 15 years old, although I'm now focused on the DevOps field. Fast learner and self-taught, orderly, responsible and punctual. Passionate about learning.",
+      "avatar": {
+        "alt": "avatar",
+        "link": "https://media-exp1.licdn.com/dms/image/C4D03AQEr0UsO1Oo2Tw/profile-displayphoto-shrink_800_800/0/1567494511105?e=1654128000&v=beta&t=b2qD6DRf5sJ8duFbdko2LHifjDLmnveVL8_n98AutsU"
+      },
       "location": {
-        "notes": ""
+        "notes": "Madrid, Spain"
       }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/lucas-sanz-allona"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/lucas1sanz"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My favourite Film",
+        "fact": "Barry Lyndon"
+      },
+      {
+        "topic": "My favourite Sport",
+        "fact": "Surf"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Mastering Bitcoin",
+        "type": "reading",
+        "URL": "https://github.com/bitcoinbook/bitcoinbook",
+        "authors": [
+          {
+            "name": "Andreas",
+            "surnames": " M. Antonopoulos",
+            "title": "Author"
+          }
+        ],
+        "summary": "Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin."
+      },
+      {
+        "title": "The Bitcoin Standard",
+        "type": "reading",
+        "URL": "https://saifedean.com/thebitcoinstandard/",
+        "authors": [
+          {
+            "name": "Saifedean",
+            "surnames": "Ammous",
+            "title": "Author"
+          }
+        ],
+        "summary": "The Bitcoin Standard analyzes the historical context to the rise of Bitcoin, the economic properties that have allowed it to grow quickly, and its likely economic, political, and social implications."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sngular",
+          "image": {
+            "alt": "Sngular.png",
+            "link": "https://www.sngular.com/wp-content/uploads/2022/03/IBEX-GROWTH-MARKET-15.png"
+          },
+          "URL": "https://www.sngular.com"
+        },
+        "roles": [
+          {
+            "name": "Cloud and DevOps Engineer",
+            "startDate": "2020-03-01",
+            "competences": [
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sngular",
+          "image": {
+            "alt": "Sngular.png",
+            "link": "https://www.sngular.com/wp-content/uploads/2022/03/IBEX-GROWTH-MARKET-15.png"
+          },
+          "URL": "https://www.sngular.com"
+        },
+        "roles": [
+          {
+            "name": "Junior Blockchain Developer",
+            "startDate": "2018-10-15",
+            "finishDate": "2020-02-29",
+            "competences": [
+              {
+                "name": "Web3",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GMV",
+          "image": {
+            "alt": "GMV.svg",
+            "link": "https://gmv.com/themes/gmv/images/logo.svg"
+          },
+          "URL": "https://gmv.com/en-es"
+        },
+        "roles": [
+          {
+            "name": "Junior Java Developer",
+            "startDate": "2017-02-01",
+            "finishDate": "2018-06-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "publicArtifacts": []
+  },
+  "knowledge": {
+    "studies": []
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/lucas-sanz-allona"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Bitcoin",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      ]
     }
   }
 }
